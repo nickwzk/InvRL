@@ -1,6 +1,6 @@
 # Invariant Representation Learning for Multimedia Recommendation
 
-This our official implementation vis Pytorch for the paper:
+This our official implementation via Pytorch for the paper:
 
 >Xiaoyu Du, Zike Wu, Fuli Feng, Xiangnan He and Jinhui Tang. Invariant Representation Learning for Multimedia Recommendation. In ACM MM`22, October 10–14, 2022, Lisboa, Portugal.
 
